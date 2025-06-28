@@ -1,9 +1,10 @@
 <h1 align="center">
-  Hey there! 👋 I'm 
+  Hey there! 👋 I'm<br />
   <a href="https://github.com/Anish2025">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Anish+Kumar+Sharma;Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript+%7C+Convex" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Anish+Kumar+Sharma;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </h1>
+
 
 <p align="center">
   <a href="mailto:anishsharma2779@gmail.com"><img src="https://img.shields.io/badge/Email-anishsharma2779@gmail.com-red?style=flat-square&logo=gmail"></a>
@@ -75,7 +76,7 @@ Tech: `React`, `Redux`, `Tailwind`, `Firebase`, `Razorpay`
 
 - 🔥 400+ DSA problems solved across platforms  
 - ⭐ 5-star on HackerRank  
-- 🥇 1st place in college Hackathon (EdTech theme)  
+- 🥇 1st place in college Hackathon (Ideathon)  
 - 🥉 Ranked top 3 in branch in 1st semester
 
 ---
